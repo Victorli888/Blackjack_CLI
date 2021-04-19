@@ -1,6 +1,4 @@
-# CLI Black Jack (Command Line Interface Black Jack)
-
-# **:cyclone:  Pokemon Text Adventure v1.0**
+# **:flower_playing_cards:  CLI Black Jack (Command Line Interface Black Jack)**
 Play BlackJack from your very own Command Line Interface! A simple way to try your luck and simulate a night at the BlackJack tables at the Casino
 
 Expected Features in the Game Include:
