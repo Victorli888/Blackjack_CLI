@@ -3,7 +3,7 @@ Play BlackJack from your very own Command Line Interface! A simple way to try yo
 
 Expected Features in the Game Include:
 * A Cozy 3 person Table with 2 other CPU Players
-* Dealer Must Hit Untill 17 is reached
+* Dealer Must Hit Until 17 is reached
 * 5 Shoe Deck that re-shuffles after 75% Deck Penetration 
 * Simple Hit or Stand Response to control Player turn.
 
